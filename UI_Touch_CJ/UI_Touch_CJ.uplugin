@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UI_Touch_CJ",
+	"Description": "Aimo_皑墨 : 触摸设备(如手机)UI触控",
+	"Category": "UI",
+	"CreatedBy": "Aimo",
+	"CreatedByURL": "https://space.bilibili.com/146962867",
+	"DocsURL": "https://space.bilibili.com/146962867",
+	"MarketplaceURL": "https://space.bilibili.com/146962867",
+	"SupportURL": "mailto:2422489737@qq.com",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UI_Touch_CJ",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Android"
+			]
+		}
+	]
+}
