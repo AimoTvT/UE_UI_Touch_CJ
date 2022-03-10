@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UI_Touch_CJ.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\UE4\BianYiBan\UnrealEngine-4.25.4-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\UE4_WenJian\UI_Touch_CJ_XM\Plugins\UI_Touch_CJ\Intermediate\Build\Win64\UE4Editor\Development\UI_Touch_CJ\UI_Touch_CJ.cpp.obj"
+"G:\UE4\BianYiBan\UnrealEngine-4.25.4-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"F:\UE4_WenJian\UI_Touch_CJ_XM\Plugins\UI_Touch_CJ\Intermediate\Build\Win64\UE4Editor\Development\UI_Touch_CJ\UE4Editor-UI_Touch_CJ.lib"
+/INCLUDE:IMPLEMENT_MODULE_UI_Touch_CJ

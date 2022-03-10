@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UI_Touch_CJ.cpp.obj": [
+			"Aimo_UI_Touch.cpp.obj",
+			"UI_Touch_CJ.cpp.obj"
+		],
+		"Module.UI_Touch_CJ.gen.cpp.obj": [
+			"Aimo_UI_Touch.gen.cpp.obj",
+			"UI_Touch_CJ.init.gen.cpp.obj"
+		]
+	}
+}
